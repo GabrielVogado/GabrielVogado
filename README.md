@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielVogado
-- 👀 I’m interested in Java Programing Linguage
-- 🌱 I’m currently learning Spring ecosystem
+- 👀 I’m interested in Java Programing Language
+- 🌱 I’m currently learning Spring Ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/gabrielvogado/
 
