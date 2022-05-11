@@ -12,13 +12,12 @@
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
-  <img align="right" alt="Gabriel-gif" height="150" style="border-radius:50px;" src="https://github.com/GabrielVogado/GabrielVogado/blob/master/img/star-wars.gif"/>
-</div>
-  
   ##
   
  <div> 
+   
+   ![Star Wars](https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586)
+   
 
  <a href="https://discord.gg/JYKjKAbc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><a href = "mailto:gabriel.vogado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gabrielvogado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://bitbucket.org/GabrielAlem/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>  
 ![Snake animation](https://github.com/GabrielVogado/GabrielVogado/blob/output/github-contribution-grid-snake.svg)
