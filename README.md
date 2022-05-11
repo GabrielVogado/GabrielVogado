@@ -12,9 +12,14 @@
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  
+  
   ##
   
  <div> 
+ 
+ <br /> 
+ <br />
    
    ![Star Wars](https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586)
    
