@@ -1,6 +1,6 @@
 -👋 Olá, Sou @GabrielVogado
 - 👀 Apaixonado por Java e suas Tecnologias
-- ☕ JavaBoy
+- ☕ FanBoy de Java
 - ❤ Atualmente estudando Quarkus
 
 
